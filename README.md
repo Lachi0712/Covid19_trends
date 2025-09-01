@@ -17,7 +17,6 @@ The COVID-19 Trends project analyzes pandemic-related data to uncover temporal p
 
 ##  Dataset
 
-- **Source**: [Insert dataset source—e.g., Johns Hopkins University CSSE COVID-19 dataset, Our World in Data, etc.]
 - **Contents**: Date-wise records of confirmed cases, deaths, recovered, and active cases, segmented by country or region.
 - **Preprocessing steps**:
   - Handling of missing values (e.g., forward-filling, interpolation).
